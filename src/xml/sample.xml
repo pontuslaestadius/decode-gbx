@@ -1,0 +1,7 @@
+<header type="replay" exever="3.3.0" exebuild="2022-05-19_15_03" title="TMStadium">
+    <map uid="8C4CMPhpuzXOsQQu_CD5NJ89KA4" name="thisisanamedmap" author="fkhk8MF0T8WFeS5wJlKvIQ" authorzone="World|Europe|Sweden"/>
+    <desc envir="Stadium" mood="Day" maptype="TrackMania\TM_Race" mapstyle="" displaycost="3189" mod="" />
+    <playermodel id="CarSport"/>
+    <times best="33908" respawns="-1" stuntscore="0" validable="1"/>
+    <checkpoints cur="5" />
+</header>
